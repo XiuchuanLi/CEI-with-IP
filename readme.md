@@ -37,7 +37,7 @@ cd ..
 
 ## Requirements
 
-pytorch=2.1.2
+pytorch 2.1.2
 
 numpy 1.24.3
 
@@ -45,4 +45,4 @@ scipy 1.10.1
 
 networkx 3.1
 
-matplotlib=3.7.1
+matplotlib 3.7.1
