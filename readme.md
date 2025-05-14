@@ -26,7 +26,7 @@ python estimation.py
 cd ..
 ```
 
-Reproduce the results of baselines (CM and GRICA) in Fig. 6 (the code is adapted from https://github.com/danieletramontano/Causal-Effect-Identification-in-LiNGAM-Models-with-Latent-Confounders)
+Reproduce the results of baselines (CM and GRICA) in Fig. 7 (the code is adapted from https://github.com/danieletramontano/Causal-Effect-Identification-in-LiNGAM-Models-with-Latent-Confounders)
 
 ```(bash)
 cd baseline
