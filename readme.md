@@ -18,7 +18,7 @@ python discrimination.py
 cd ..
 ```
 
-Reproduce the results of our algorithm in Fig. 6
+Reproduce the results of our algorithm in Fig. 7
 
 ```(bash)
 cd algorithm
