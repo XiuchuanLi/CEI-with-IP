@@ -1,4 +1,4 @@
-All experiments are performed on an i9-13900F CPU. The total time is about 75 min.
+All experiments are performed on an i9-13900F CPU. The total time cost is about 75 min.
 
 ## Usage
 
